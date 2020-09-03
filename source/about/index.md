@@ -45,7 +45,6 @@ vue 简化 H5 mall
 
 - [Twitter @Yamfeel](https://twitter.com/Yamfeel)
 - [GitHub @Yamfeel](https://github.com/yamfeel)
-- [bilibili @Yukee](https://space.bilibili.com/15794583)
 
 👬交流
 
@@ -74,6 +73,7 @@ ing... 还在迁移中
         </div>
     </div>
 </div>
+
 
 
 <style>
