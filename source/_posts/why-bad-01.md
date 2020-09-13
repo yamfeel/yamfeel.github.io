@@ -2,6 +2,7 @@
 title: 栽了个跟头
 date: 2020-08-26 05:00:50
 categories: 日记
+password: ayukee
 typora-root-url: ..
 ---
 
@@ -15,3 +16,4 @@ typora-root-url: ..
 ![](/images/why-bad-01/image-20200901220007162.png)
 
 咱，不跟大厂掰，邮箱给您匿了。
+
