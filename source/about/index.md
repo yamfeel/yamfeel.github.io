@@ -27,17 +27,9 @@ comments: true
 
 一个可爱的极简便签、捕捉自动化Tools沙盒箱
 
-### **VueMall** <span class="forlink" onclick="h5show('https://blog.yamfeel.cn/vuemall/#/home')"><a href="javascript:;" ><i class="fa fa-link"></i> <i class="fa fa-h-square"></i></a></span>
-
-vue 简化 H5 mall
-
 ### **fatBox** <span class="forlink" onclick="boxShow()"><a href="javascript:;" ><i class="fa fa-link"></i> <i class="fa fa-paint-brush"></i></a></span>
 
 好友小胖三维体 PR剪辑素材
-
-### **CsOnline** <span class="forlink">[<i class="fa fa-link"></i>](https://yamfeel.github.io/history/cs2/)</span> & PLMovie <span class="forlink">[<i class="fa fa-link"></i>](https://yamfeel.github.io/history/plmovie/)</span>
-
-学校早期作品
 
 ## 捕捉
 
