@@ -42,7 +42,7 @@ typora-root-url: ..\..
 ## 《江南百景图》体验
 
 <video controls="true" preload="meta" style="width:100%">
-    <source src="/images/the-think-of-jnbjt/jnbjt.mp4" type="video/mp4">
+    <source src="/images/the-think-of-jnbjt/jnbjt.webm">
 </video>
 
 <center>录屏画面有些许卡顿现象</center>
