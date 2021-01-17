@@ -5,7 +5,7 @@ tags:
 - 游戏设计
 categories: 
 - 游戏
-typora-root-url: ..
+typora-root-url: ..\..
 ---
 
 游戏是什么？在合理的规则下的一个交互行为称之为游戏。在从中所带来的所有体验，决定了游戏的寿命。

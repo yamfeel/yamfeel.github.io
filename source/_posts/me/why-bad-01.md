@@ -3,7 +3,7 @@ title: 栽了个跟头
 date: 2020-08-26 05:00:50
 categories: 日记
 password: ayukee
-typora-root-url: ..
+typora-root-url: ..\..
 ---
 
 请问，哪儿侵权了？您说？

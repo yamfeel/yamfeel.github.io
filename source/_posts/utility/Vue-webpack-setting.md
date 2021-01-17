@@ -3,7 +3,7 @@ title: 博客项目-1
 date: 2019-03-08 07:31
 tags: 杂物间
 categories: 杂物间
-typora-root-url: ..
+typora-root-url: ..\..
 ---
 
 ### 目标

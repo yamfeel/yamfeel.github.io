@@ -2,7 +2,7 @@
 title: Hexo 提交百度引擎收录
 date: 2020-08-03 11:58:45
 tags: Blog 日志
-typora-root-url: ..
+typora-root-url: ..\..
 ---
 
 - ## 查看网站是否被收录

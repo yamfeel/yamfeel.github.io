@@ -1,5 +1,5 @@
 ---
-title: 我何尝不想成为后浪？
+title: 怪我咯。对，是的
 date: 2020-11-22 00:45:41
 tags:
 categories: 日记

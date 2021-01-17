@@ -3,7 +3,7 @@ title: Vue & webpack -VScode in 2019.8
 date: 2019-08-22 07:35
 tags: 杂物间
 categories: 杂物间
-typora-root-url: ..
+typora-root-url: ..\..
 ---
 
 **配置版本过时，谨慎参考**
