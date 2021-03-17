@@ -8,9 +8,7 @@ typora-root-url: ../..
 
 <img src="/images/genshin-klee-1/image-20210123234814995.png" style="zoom: 50%;" />
 
-公测玩到现在，成长度也算是中佬了吧。喜爱原神的小伙伴们现在也56、57级了，而我还在54级w(ﾟДﾟ)w，没时间无能狂怒，啊哈哈哈。
-
-记录下目前的情况，留下脚印吧~
+公测玩到现在，成长度也算是平均水平了吧。记录下目前的情况，留下脚印吧~
 
 当前可莉是主C，所以圣遗物也都是火系的多啦，好多火伤杯子噢，不能分享好可惜呀，欸嘿～（伙食：欸嘿て，那大哟）
 
@@ -34,9 +32,10 @@ typora-root-url: ../..
 
 #### 一、魔女套Ⅰ
 
-<center style="display:flex;justify-content: center;">
+<center style="display:flex;justify-content: center;width:100%">
 <img src="/images/genshin-klee-1/keli%200.png" style="width:96%;" /><img src="/images/genshin-klee-1/keli%201.png" style="width:96%;" /><img src="/images/genshin-klee-1/keli%205.png" style="width:96%;" /><img src="/images/genshin-klee-1/keli%203.png" style="width:96%;" /><img src="/images/genshin-klee-1/keli%204.png" style="width:96%;" />
 </center>
+
 
 经典流派：魔女四件、火伤杯、攻击沙漏。
 
