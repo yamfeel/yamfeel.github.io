@@ -121,7 +121,9 @@ cmd instead of ctrl, option instead of alt for macOS
 - **Shift+Connect<br />**Connect to shape outline (ignore connection points)<br />连接到形状轮廓（忽略连接点）
 
 <br />
+
 ## DOCUMENT / 文档
+
 | Ctrl+S                 | Save                                                         |
 | ---------------------- | ------------------------------------------------------------ |
 | Ctrl+Shift+S           | Save as / 另存为                                             |
