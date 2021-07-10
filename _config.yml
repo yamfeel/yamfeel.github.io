@@ -106,7 +106,7 @@ deploy:
   type: git
   repo:
     coding: https://e.coding.net/yamfeel/yamfeel/yamfeel.git,master   # 这是原来的 coding 配置
-    github: https://github.com/yamfeel/yamfeel.github.io.git,blog  # 这是原来的 github 配置
+    # github: https://github.com/yamfeel/yamfeel.github.io.git,blog  # 这是原来的 github 配置
 
 # Security
 encrypt: # hexo-blog-encrypt
